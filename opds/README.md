@@ -4,3 +4,7 @@
 
 ## The Atom Syndication Format
 [RFC-4287. The Atom Syndication Format](https://www.rfc-editor.org/rfc/rfc4287)
+
+## Other
+
+https://github.com/FasterXML/aalto-xml
